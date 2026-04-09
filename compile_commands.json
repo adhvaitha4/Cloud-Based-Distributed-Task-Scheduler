@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/devcontainers/scheduler-project/build",
+  "command": "/usr/bin/c++  -I/home/devcontainers/scheduler-project/include -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles/master.dir/src/master.cpp.o -c /home/devcontainers/scheduler-project/src/master.cpp",
+  "file": "/home/devcontainers/scheduler-project/src/master.cpp",
+  "output": "CMakeFiles/master.dir/src/master.cpp.o"
+},
+{
+  "directory": "/home/devcontainers/scheduler-project/build",
+  "command": "/usr/bin/c++  -I/home/devcontainers/scheduler-project/include -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles/worker.dir/src/worker.cpp.o -c /home/devcontainers/scheduler-project/src/worker.cpp",
+  "file": "/home/devcontainers/scheduler-project/src/worker.cpp",
+  "output": "CMakeFiles/worker.dir/src/worker.cpp.o"
+}
+]
